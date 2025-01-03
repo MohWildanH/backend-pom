@@ -1,0 +1,45 @@
+{
+    "id_user": 1,
+    "namaFile":"test",
+    "biosolar": [
+      {
+        "hargaBiosolar": 7000,
+        "deliveryOrderBiosolar": 1000,
+        "keuntunganBiosolar": 950,
+        "hasilPerhitunganBiosolar": 6300000
+      }
+    ],
+    "pertalite": [
+      {
+        "hargaPertalite": 7000,
+        "deliveryOrderPertalite": 1000,
+        "keuntunganPertalite": 950,
+        "hasilPerhitunganPertalite": 6300000
+      }
+    ],
+    "pertamax": [
+      {
+        "hargaPertamax": 7000,
+        "deliveryOrderPertamax": 1000,
+        "keuntunganPertamax": 950,
+        "hasilPerhitunganPertamax": 6300000
+      }
+    ],
+    "dexlite": [
+      {
+        "hargaDexlite": 7000,
+        "deliveryOrderDexlite": 1000,
+        "keuntunganDexlite": 950,
+        "hasilPerhitunganDexlite": 6300000
+      }
+    ],
+    "turbo": [
+      {
+        "hargaTurbo": 7000,
+        "deliveryOrderTurbo": 1000,
+        "keuntunganTurbo": 950,
+        "hasilPerhitunganTurbo": 6300000
+      }
+    ]
+  }
+  
